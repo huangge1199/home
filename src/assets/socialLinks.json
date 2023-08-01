@@ -2,30 +2,25 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/huangge1199"
 }, {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "name": "LeetCode",
+    "icon": "/images/icon/LeetCode.png",
+    "tip": "全球极客挚爱的技术成长平台",
+    "url": "https://leetcode.cn/u/xuan-yuan-long-er/"
+}, {
+    "name": "csdn",
+    "icon": "/images/icon/csdn.png",
+    "tip": "你懂的 ~",
+    "url": "https://blog.csdn.net/huangge1199"
 }, {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": "https://res.abeim.cn/api/qq/?qq=971429227"
 }, {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
-}, {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-}, {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "mailto:huangge1199@hotmail.com"
 }]
