@@ -1,13 +1,13 @@
 [
   {
     "icon": "Blog",
-    "name": "halo博客",
+    "name": "halo2博客",
     "link": "https://blog.huangge1199.cn/"
   },
   {
     "icon": "Blog",
-    "name": "wordpress",
-    "link": "https://site.huangge1199.cn/"
+    "name": "halo-plus博客",
+    "link": "https://halo.huangge1199.cn/"
   },
   {
     "icon": "Blog",
@@ -15,18 +15,18 @@
     "link": "https://hexo.huangge1199.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.huangge1199.cn/"
+    "icon": "Video",
+    "name": "视频网站",
+    "link": "https://cms.huangge1199.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "视频",
-    "link": "http://s2.s100.vip:7911/"
+    "icon": "LaptopCode",
+    "name": "友链站点监测",
+    "link": "https://console.huangge1199.cn/status/friends"
   },
   {
-    "icon": "Compass",
-    "name": "小说",
-    "link": "http://s2.s100.vip:33376/"
+    "icon": "Book",
+    "name": "小说网站",
+    "link": "https://hexo.huangge1199.cn/"
   }
 ]
