@@ -5,8 +5,7 @@
     <div class="logo">
       <img class="logo-img" :src="siteLogo" alt="logo" />
       <div class="name text-hidden">
-        <span class="bg">{{ siteUrl[0] }}</span>
-        <span class="sm">.{{ siteUrl[1] }}</span>
+        <span class="sm">{{ siteName }}</span>
       </div>
     </div>
     <!-- 简介 -->
@@ -37,8 +36,8 @@ const store = mainStore();
 
 // 主页站点logo
 const siteLogo = import.meta.env.VITE_SITE_LOGO;
-// 站点链接
-const siteUrl = import.meta.env.VITE_SITE_URL.split(".");
+// 站点名称
+const siteName = import.meta.env.VITE_SITE_NAME;
 
 // 简介区域文字
 const descriptionText = reactive({
@@ -103,7 +102,7 @@ watch(
 
       .sm {
         margin-left: 6px;
-        font-size: 2rem;
+        font-size: 4rem;
         @media (min-width: 720px) and (max-width: 789px) {
           display: none;
         }
